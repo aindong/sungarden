@@ -1,0 +1,15 @@
+01/21/2014 10:11:55 pm: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE reservationID = '8'' at line 1
+01/21/2014 10:12:20 pm: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE reservationID = '7'' at line 1
+01/21/2014 10:15:31 pm: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE reservationID = '9'' at line 1
+01/28/2014 10:45:31 am: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'roomID' cannot be null
+01/28/2014 10:45:50 am: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'roomID' cannot be null
+01/28/2014 10:45:58 am: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'roomID' cannot be null
+01/28/2014 10:46:05 am: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'roomID' cannot be null
+01/28/2014 10:46:13 am: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'roomID' cannot be null
+01/28/2014 10:46:18 am: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'roomID' cannot be null
+01/28/2014 11:10:16 am: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+01/28/2014 11:11:56 am: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+01/28/2014 11:11:58 am: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+01/28/2014 11:12:01 am: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+01/28/2014 11:12:30 am: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+01/28/2014 11:14:20 am: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
